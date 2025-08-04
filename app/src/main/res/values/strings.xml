@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CreditosComplementariosFinal</string>
+    <string name="cursos_disponibles">Cursos Disponibles</string>
+    <string name="historial">Historial</string>
+    <string name="perfil">Perfil</string>
+    <string name="cerrar_sesi_n">Cerrar Sesión</string>
+    <string name="cr_ditos">Créditos</string>
+    <string name="bienvenido">Bienvenido, %1$s</string>
+    <string name="no_hay_cursos_disponibles">No hay cursos disponibles</string>
+</resources>
